@@ -1,5 +1,5 @@
-# The-BPMN-diagram_online-taxi-service
-The BPMN diagram of an online taxi service
+# BPMN-diagram_online-taxi-service
+BPMN diagram of an online taxi service
 
 A BPMN diagram is a specialized type of diagram widely used in business analysis. It is specifically designed for modeling business processes, business rules, user interactions with a system, and interactions between different systems. Unlike other diagrams, BPMN focuses on the internal processes within a system.
 
