@@ -9,4 +9,4 @@ This example presents a BPMN diagram for an online taxi service. My goal was to 
 
 This approach enhances usability and efficiency, ensuring clear communication with stakeholders and the team. It helps maintain alignment, prevent misunderstandings, and improve workflow coordination.
 
-![Online taxi service_BPMN diagram drawio](https://github.com/user-attachments/assets/26152966-81ef-40c5-b4a1-9e9d9909db55)
+![Online taxi service_BPMN diagram drawio](https://github.com/user-attachments/assets/734d1ad0-fd6d-420e-a452-ac87910e4559)
